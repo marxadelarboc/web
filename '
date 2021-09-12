@@ -19,11 +19,12 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Marxa de l'arboç</h1>
+						<h1>Marxa de<br />
+						l'arboç</h1>
 	<!--						<p>A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />
 		and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>.</p> -->
 					<p>
-						Una experiència a les Gavarres el diumenge 17 d'octubre
+						Una experiència a les Gavarres el tercer diumenge d'octubre
 					</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
@@ -42,7 +43,6 @@
 							<li><a href="covid19.html">Protocol Covid19</a></li>
 							<li><a href="galeria.html">Galeria d'imatges</a></li>
 							<li><a href="qui-som.html">Qui som</a></li>
-							<li><a href="salutacio.html">Salutació</a></li>
 						</ul>
 						<!-- 
 						<ul class="icons">
@@ -74,134 +74,33 @@
 							-->
 
 							<h1>Marxa 2021</h1>
-							<p>Tenim el plaer de presentar-vos la XLII edició de la Marxa de l'Arboç.</p>
-							<h2>Recorregut</h2>
-							<p>En l'edició d'enguany es proposa un únic recorregut de <b>14.82 km de distància</b> i <b>202 m de desnivell</b>.</p>
-
-							<a  class="image fit"><img src="CC-images/ruta_mapa1.png" alt="" /></a>
-							<a  class="image fit"><img src="CC-images/ruta_mapa2.png" alt="" /></a>
-							<a  class="image fit"><img src="CC-images/ruta_perfil.png" alt="" /></a>
-
-							<p>Podeu consultar el recorregut i el perfil de la ruta proposada a <a href="https://ca.wikiloc.com/rutes-senderisme/marxa-de-larboc-2021-83463525">Wikiloc</a>.</p>
-
-
-							<h2>Inscripcions</h2>
-							<p>Degut a la situació de pandèmia, l'organització encoratge a tots els participants a optar per la <b>inscripció anticipada</b>, ja sigui en un dels establiments que a continuació s'indiquen, o, preferiblement, a través del <a href="https://forms.gle/k5ctmXeMpCgnDNpH8"><b>formulari online</b></a>. De totes formes, es manté la tradicional inscripció física (targeta i bolígraf) el moment abans de la sortida.</p>
-
-
-							<h3>Inscripció anticipada</h3>
-							<p>La inscripció anticipada permet al marxaire incriure's de forma segura i sense cues. El dia de la marxa simplement ha de donar el seu nom i pagar 6€ per tal que se li faci entrega del clàssic bracelet identificatiu, que li dona accés als habituallaments i li permet rebre un obsequi. És la modalitat d'inscripció que l'organització aconsella.</p>
-
+							<p>Tenim el plaer de presentar-vos la Marxa de l'Arboç de l'any 2021.
+							En l'edició d'enguany es proposa un únic recorregut.</p>
+							<p>Com ja es ve fent els últims anys, es proposen dos recorreguts en l'edició d'enguany.</p>
 							<div class="table-wrapper">
 								<table>
 									<thead>
 										<tr>
-											<th>Inscripció</th>
+											<th>Nom</th>
 											<th>Descripció</th>
-											<th>Import</th>
+											<th>Preu</th>
 										</tr>
 									</thead>
 									<tbody>
 										<tr>
-											<td>Inscripció anticipada online</td>
-											<td>A través del <a href="https://forms.gle/k5ctmXeMpCgnDNpH8"><b>formulari online (clicka'm)</b></a> </td>
-											<td>6€</td>
+											<td>Marxa curta</td>
+											<td>10 km, 100 m de desnivell</td>
+											<td>5 €</td>
 										</tr>
 										<tr>
-											<td>Inscripció anticipada física</td>
-											<td><b>Intersport</b>: Carrer dels Valls, 8, 17100 La Bisbal d'Empordà <br> <b>BlackIsard</b>: Carrer de l'Aigüeta, 170, 17100 La Bisbal d'Empordà</td>
-											<td>6 €</td>
+											<td>Marxa llarga</td>
+											<td>20 km, 200 m de desnivell</td>
+											<td>5 €</td>
 										</tr>
 									</tbody>
 								</table>
 							</div>
 
-													
-							<ul class="actions special">
-								<li><a href="https://forms.gle/k5ctmXeMpCgnDNpH8" class="button">Inscripció anticipada onine: formulari</a></li>
-							</ul>
-
-
-	
-
-							<h3>Inscripció tradicional</h3>
-							<p>La inscripció tradicional es realitza el mateix dia de la marxa, abans de la sortida, en una targeta de paper. L'organització no pot garantir que no hi hagi cues, i prega respectar les distàncies a tots els marxaires que optin per aquesta modalitat d'inscripció. El pagament es fa in-situ, en efectiu, i té un cost de 7€. En aquest moment es fa entrega del bracelet identificatiu, que dona accés als habituallaments i permet rebre un obsequi.</p>
-
-							<div class="table-wrapper">
-								<table>
-									<thead>
-										<tr>
-											<th>Inscripció</th>
-											<th>Descripció</th>
-											<th>Import</th>
-										</tr>
-									</thead>
-									<tbody>
-										<tr>
-											<td>Inscripció tradicional física</td>
-											<td>Es realitza el moment abans de la sortida, en paper, tal i com es porta dècades fent.</td>
-											<td>7€</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
-
-
-
-
-							<h2>Horaris</h2>
-							<p>La sortida s'efectuarà des de la Piscina Municipal de La Bisbal d'Empordà, al Carrer Font de l'Arbre, s/n. La ruta és circular. S'habilitarà una zona d'aparcament</p>
-
-							<div class="table-wrapper">
-								<table>
-									<thead>
-										<tr>
-											<th>Hora</th>
-											<th>Descripció</th>
-										</tr>
-									</thead>
-									<tbody>
-										<tr>
-											<td>7:00 - 9:00</td>
-											<td>Pagament i recollida del bracelet. Inscripció tradicional física.</td>
-										<tr>
-											<td>13:00</td>
-											<td>Tancament marxa.</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
-
-
-							<h2>Habituallaments i obsequi</h2>
-
-							<p>Per motius sanitaris, aquest any no se'ns permet donar entrepans. El marxaire, identificat amb el bracelet, podrà gaudir de:</p>
-							<ul>
-									<li>Fruita.</li>
-									<li>Aigua, refrescs, vi.</li>
-									<li>Obsequi</li>
-							</ul>
-
-
-
-
-
-
-							<h2>Sponsors</h2>
-									<span class="image fit"><img src="CC-images/westfalia.png" alt="" /></span>
-									<span class="image fit"><img src="CC-images/solgirones.png" alt="" /></span>
-									<span class="image fit"><img src="CC-images/transports_darnaculleta.png" alt="" /></span>
-									<div class="box alt">
-										<div class="row gtr-50 gtr-uniform">
-											<div class="col-4"><span class="image fit"><img src="CC-images/westfalia.png" alt="" /></span></div>
-											<div class="col-4"><span class="image fit"><img src="CC-images/solgirones.png" alt="" /></span></div>
-											<div class="col-4"><span class="image fit"><img src="CC-images/transports_darnaculleta.png" alt="" /></span></div>
-											<!-- Break -->
-										</div>
-									</div>
-
-
-	
 						<!-- Posts -->
 						<!-- 
 							<section class="posts">
@@ -324,17 +223,17 @@ Footer -->
 							-->
 						<section class="split contact">
 							<section class="alt">
-								<h3>Adreça Sortida</h3>
-								<p>Carrer Font de l'Arbre, s/n. (Piscina Municipal)<br />
-								17100 La Bisbal d'Empordà, Girona</p>
+								<h3>Adreça</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
 							</section>
 							<section>
-								<h3>Web</h3>
-								<p><a href="https://www.lamarxa.com">www.lamarxa.com</a></p>
+								<h3>Telèfon</h3>
+								<p><a href="#">(000) 000-0000</a></p>
 							</section>
 							<section>
 								<h3>Email</h3>
-								<p><a href="#">marxaarboc@gmail.com</a></p>
+								<p><a href="#">marxadelarboc@protonmail.com</a></p>
 							</section>
 							<section>
 								<!--
